@@ -1,6 +1,6 @@
-# PDF Chatbot with Ollama LLM
+# PDF Chatbot with Mistral LLM deployed via Ollama
 
-This is a Streamlit app that allows you to upload a PDF and chat with an AI assistant (powered by Ollama LLM) about its content.
+This is a Streamlit app that allows you to upload a PDF and chat with an AI assistant (powered by Mistral LLM) about its content.
 
 ## Features
 - Upload any PDF file
